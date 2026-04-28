@@ -46,13 +46,13 @@ const Footer = () => {
                   href="tel:+91 8264954234"
                   className="mt-3 d-block mb-1 text-white"
                 >
-                  +91 8264954234
+                  +91 9022093293
                 </a>
                 <a
                   href="mailto:devjariwala8444@gmail.com"
                   className="mt-2 d-block mb-0 text-white"
                 >
-                  devjariwala8444@gmail.com
+                  snktdhg@gmail.com
                 </a>
                 <div className="social_icons d-flex align-items-center gap-30 mt-4">
                   <a className="text-white" href="#">
