@@ -38,9 +38,7 @@ const Footer = () => {
               <h4 className="text-white mb-4">Contact Us</h4>
               <div>
                 <address className="text-white fs-6">
-                  Hno : Daiict college, Reliance Cross Rd, <br />{" "}
-                  Gandhinagar,Gujarat <br />
-                  PinCode: 382007
+                  HW6V+HW9, Fountain Road, Ashoka Nagar, Kharadi, Pune, Maharashtra 411014
                 </address>
                 <a
                   href="tel:+91 8264954234"
